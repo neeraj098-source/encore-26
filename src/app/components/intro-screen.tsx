@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 
 // Replaced local Gemini-generated PNG with a remote placeholder image URL
-const buildingImage = "https://drive.google.com/file/d/1sc6PlXsbPIiHmH54ecds0H46oO5ndr0S/view?usp=sharing";
+const buildingImage = "src/assets/lv_0_20260118162534.mp4";
 
 interface IntroScreenProps {
   onComplete: () => void;
